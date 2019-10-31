@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.main--div{
+    display: flex;
+}
+.main--div--button1{
+    display: inline-block;
+    width: 50vw;
+    height: 5vh;
+    text-align: center;
+    font: Medium 14px/19px Roboto;
+    letter-spacing: 1.4px;
+    color: #AAAAAA;
+    text-transform: uppercase;
+    opacity: 1;
+    justify-content: space-around;
+    text-align: center;
+}
+.main--div--button2{
+    display: inline-block;
+    width: 50vw;
+    height: 5vh;
+    text-align: center;
+    font: Bold 14px/19px Roboto;
+    letter-spacing: 1.4px;
+    color: #611829;
+    text-transform: uppercase;
+    opacity: 1;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    opacity: 1;
+    justify-content: space-around;
+    text-align: center;
+}
+.main--div2{
+    display: flex;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    width: 98.8vw;
+    height: 3.5vh;
+}
+.main--div--buttons{
+    display: inline-block;
+    width: 49vw;
+    height: 3.5vh;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    opacity: 1; 
+    text-align: center;
+    font: Bold 10px/13px Roboto;
+    letter-spacing: 1.8px;
+    color: #611829;
+    opacity: 1;
+    justify-content: space-around;
+    text-align: center;
+    border-right: 0.03rem solid#CCCCCC;
+    opacity: 1;
+}
+.main--div3{
+    width: 98.8vw;
+    height: 16vh;
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+}
+.main--div3-c1{
+    width: 49vw;
+    height: 15vh;
+    margin-left: 2px;
+    background: darkgray;
+    display: flex;
+}
+.main--div3-c1-p1{
+    width: 10vw;
+    height: 8vw;
+}
+.main--div3-c1-p2{
+    width: 34vw;
+    height: 8vw;
+}
+.main--div3-c1-p2 h3{
+    text-align: left;
+    font: Black 18px/20px Roboto;
+    letter-spacing: 1.8px;
+    color: #611829;
+    opacity: 1;
+}
+.main--div3-c1-p2 h4{
+    text-align: left;
+    letter-spacing: 1.6px;
+    color: #924551;
+    opacity: 1;
+}
+.main--div3-c1-p3-b{
+    width: 150px;
+    height: 25px;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    border-radius: 36px;
+    opacity: 1;
+    text-decoration: none;
+}
+
+/* .main--div3-c1-p4{
+    margin-left: 19rem;
+} */
+.main--div3-c2{
+    width: 49vw;
+    height: 15vh;
+    margin-left: 2px;
+    background: darkgray;
+}
+.main--div3-c2-p{
+    width: 48vw;
+    height: 13vh;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+    margin-top: 0.5rem;
+    margin-left: 0.3rem;
+}
